@@ -3,4 +3,3 @@ def greet_user(name: str, text: str):
 
 
 print(greet_user('Rudra', 'Welcome to my world >.<'))
-
